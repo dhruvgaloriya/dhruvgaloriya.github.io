@@ -1,0 +1,96 @@
+{
+	"main": {
+		"name": "Dhruvit Galoria",
+		"occupation": "Frontend Engineer",
+		"description": "who loves to build scalable and maintainable web apps. Proficient in Javascript plus modern web-development like React, Angular. Passionate and Enthusiastic about AI and Machine Learning",
+		"image": "profilepic.jpg",
+		"bio": "I am currently working as UI Engineer at Fynd. I like to resolve design problems, create smart user interface and imagine useful interaction, developing rich web experiences & web applications.When not working or futzing around with code, you'll find me in buffering latest episode of trendy tv shows!",
+		"contactmessage": "Have a project in mind? Let’s chat. I always looking for person to build something great. If that’s you, drop us a line.",
+		"email": "dhruvitgaloriya@gmail.com",
+		"phone": "+91-7041365161",
+		"address": {
+			"street": "",
+			"city": "Mumbai",
+			"state": "Maharastra",
+			"zip": "388120"
+		},
+		"website": "https://dhruvitgaloriya.github.io",
+		"resumedownload": "https://drive.google.com/file/d/1cjH7IZmEfC8TR97Xa34CS7HC5Hvucag6/view?usp=sharing",
+		"social": [
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/dhruvit-galoriya-a30a61109/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/dhruvgaloriya",
+				"className": "fa fa-github"
+			},
+			{
+				"name": "twitter",
+				"url": "https://twitter.com/dhruvit_galoria",
+				"className": "fa fa-twitter"
+			},
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/dhruvit.galoriya.9/",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/dhruvit_galoriya",
+				"className": "fa fa-instagram"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "",
+		"education": [
+			{
+				"school": "Birla Vishvakarma Mahavidyalaya",
+				"degree": "Bachelors' of Technology in Computer Science",
+				"graduated": "June 2018"
+			},
+			{
+				"school": "Noble School",
+				"degree": "Science",
+				"graduated": "June 2014"
+			}
+		],
+		"work": [
+			{
+				"company": "Fynd",
+				"title": "Product Engineer",
+				"years": "May 2020 - Present"
+			},
+			{
+				"company": "Tcs Interactive",
+				"title": "Frontend Engineer",
+				"years": "Sept 2018 - April 2020"
+			}
+		],
+		"skills": [
+			{
+				"name": "Javascript",
+				"level": "93%"
+			},
+			{
+				"name": "HTML/CSS",
+				"level": "70%"
+			},
+			{
+				"name": "React",
+				"level": "82%"
+			},
+			{
+				"name": "Angular",
+				"level": "73%"
+			},
+			{
+				"name": "Node/Express",
+				"level": "65%"
+			}
+		]
+	}
+}
